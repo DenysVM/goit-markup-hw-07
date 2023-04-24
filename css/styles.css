@@ -1376,12 +1376,12 @@ textarea:focus {
   }
 
   .footer-subscribe {
+    margin-top: 0px;
     margin-left: 80px;
   }
 
   .footer-subscribe-title {
     justify-content: left;
-    margin-top: 0px;
   }
 
   .footer-input-wrap {
